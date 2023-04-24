@@ -1,0 +1,36 @@
+/*
+Atividade prática 2
+Aluno: Daniel Luz
+Disciplina: Prática integradora
+
+24/04/2023
+
+
+Utilizei backgorund em todo o "corpo".
+Fiz uma formatção padrão para os parágrafos.
+Diferenciei os dois parágrafos pela classe.
+*/
+
+body {
+    background: yellow;
+}
+
+h1 {
+    color:blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+p.corDoTexto {
+    color: green;
+}
+
+p.corDoTexto2 {
+    color: red;
+    text-align: right;
+}

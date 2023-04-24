@@ -1,0 +1,28 @@
+.error {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-rigth {
+    text-align: right;
+}
+
+.align-justify  {
+    text-align: justify;
+}
+
+.list {
+    list-style: none;
+}
